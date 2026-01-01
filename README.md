@@ -1,4 +1,6 @@
 Monitoramento de Servidor com PowerShell
+
+
 📌 Visão Geral
 
 Este projeto implementa uma solução de monitoramento de servidor Windows utilizando PowerShell, com foco em automação e conceitos de infraestrutura.
@@ -55,3 +57,4 @@ Este projeto foi desenvolvido com o objetivo de demonstrar conhecimentos em:
 * Administração de ambientes Windows
 * Integração com serviços externos
 * Monitoramento e alertas
+
